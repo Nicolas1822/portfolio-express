@@ -57,7 +57,7 @@ const translations = {
     'education.cun.title': 'Ingeniería de Sistemas',
     'education.cun.institution': 'Corporación Unificada Nacional de Educación Superior CUN',
     'education.cun.period': 'Ago 2024 - Actualidad',
-    'education.cun.desc': 'Cursando noveno semestre',
+    'education.cun.desc': 'Cursando Décimo semestre',
 
     'education.docker.title': 'Fundamentos de Docker',
     'education.docker.institution': 'Platzi',
@@ -85,7 +85,7 @@ const translations = {
     // Languages
     'languages.title': 'Idiomas',
     'languages.spanish': 'Español - Nativo',
-    'languages.english': 'Inglés - Intermedio A2',
+    'languages.english': 'Inglés - Avanzado B2',
 
     // Footer
     'footer.rights': 'Todos los derechos reservados.',
@@ -138,7 +138,7 @@ const translations = {
     'education.cun.title': 'Systems Engineering',
     'education.cun.institution': 'CUN - National Unified Corporation of Higher Education',
     'education.cun.period': 'Aug 2024 - Present',
-    'education.cun.desc': 'Currently in ninth semester',
+    'education.cun.desc': 'Currently in tenth semester',
 
     'education.docker.title': 'Docker Fundamentals',
     'education.docker.institution': 'Platzi',
@@ -166,7 +166,7 @@ const translations = {
     // Languages
     'languages.title': 'Languages',
     'languages.spanish': 'Spanish - Native',
-    'languages.english': 'English - Intermediate A2',
+    'languages.english': 'English - Advanced B1',
 
     // Footer
     'footer.rights': 'All rights reserved.',

@@ -90,15 +90,9 @@ const SkillsSection = () => {
               <div className="space-y-3">
                 <div className="flex items-center justify-between">
                   <span className="text-muted-foreground">{t('languages.spanish')}</span>
-                  <div className="w-32 h-2 bg-secondary rounded-full overflow-hidden">
-                    <div className="w-full h-full bg-primary rounded-full" />
-                  </div>
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-muted-foreground">{t('languages.english')}</span>
-                  <div className="w-32 h-2 bg-secondary rounded-full overflow-hidden">
-                    <div className="w-1/2 h-full bg-primary rounded-full" />
-                  </div>
                 </div>
               </div>
             </div>

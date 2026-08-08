@@ -6,7 +6,20 @@ const ExperienceSection = () => {
   const { t } = useLanguage();
   const { ref, isVisible } = useScrollReveal({ threshold: 0.1 });
 
-  const experiences = [
+  const experiences = [ 
+    {
+      company: 'Turrisystem',
+      role: t('experience.turrisystem.role'),
+      period: t('experience.turrisystem.period'),
+      descriptions: [
+        t('experience.turrisystem.desc1'),
+        t('experience.turrisystem.desc2'),
+        t('experience.turrisystem.desc3'),
+        t('experience.turrisystem.desc4'),
+        t('experience.turrisystem.desc5'),
+      ],
+      technologies: ['Laravel', 'PHP', 'PostgreSQL', 'React.js', 'JavaScript', 'TypeScript', 'GitLab', 'Docker', 'SOLID'],
+    },
     {
       company: 'Grupo Magin',
       role: t('experience.grupomagin.role'),

@@ -9,8 +9,8 @@ const Navbar = () => {
 
   const navItems = [
     { href: '#about', label: t('nav.about') },
-    { href: '#skills', label: t('nav.skills') },
     { href: '#experience', label: t('nav.experience') },
+    { href: '#skills', label: t('nav.skills') },
     { href: '#education', label: t('nav.education') },
     { href: '#contact', label: t('nav.contact') },
   ];

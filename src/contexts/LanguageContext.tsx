@@ -38,6 +38,14 @@ const translations = {
 
     // Experience
     'experience.title': 'Experiencia Profesional',
+    'experience.turrisystem.role': 'Desarrollador Full-Stack',
+    'experience.turrisystem.period': 'Marzo 2026 - Presente',
+    'experience.turrisystem.desc1': 'Desarrollo Full-Stack: Diseño y desarrollo de aplicaciones escalables empleando arquitecturas modernas con Laravel, React y TypeScript.',
+    'experience.turrisystem.desc2': 'Rendimiento de Datos: Optimización de consultas complejas y modelado de datos en PostgreSQL, reduciendo tiempos de respuesta y mejorando la eficiencia del sistema.',
+    'experience.turrisystem.desc3': 'DevOps y Containerización: Configuración y estandarización de entornos de desarrollo mediante Docker, garantizando la paridad entre entornos y agilizando despliegues.',
+    'experience.turrisystem.desc4': 'Colaboración y Control de Versiones: Gestión del ciclo de vida del código mediante GitLab, aplicando flujos de trabajo colaborativos (Git Flow) y revisión de código.',
+    'experience.turrisystem.desc5': 'Análisis Técnico: Traducción de reglas de negocio y requerimientos funcionales en soluciones de software robustas, asegurando la alineación con la documentación técnica del proyecto.',
+
     'experience.grupomagin.role': 'Desarrollador de Software',
     'experience.grupomagin.period': 'Oct 2023 - Ago 2024',
     'experience.grupomagin.desc1': 'Desarrollar y mejorar los sistemas de información creados por la empresa.',
@@ -119,6 +127,14 @@ const translations = {
 
     // Experience
     'experience.title': 'Professional Experience',
+    'experience.turrisystem.role': 'Full-Stack Developer',
+    'experience.turrisystem.period': 'March 2026 - Present',
+    'experience.turrisystem.desc1': 'Full-Stack Development: Design and development of scalable applications using modern architectures with Laravel, React, and TypeScript.',
+    'experience.turrisystem.desc2': 'Data Performance: Optimization of complex queries and data modeling in PostgreSQL, reducing response times and improving system efficiency.',
+    'experience.turrisystem.desc3': 'DevOps & Containerization: Configuration and standardization of development environments using Docker, ensuring environment parity and streamlining deployments.',
+    'experience.turrisystem.desc4': 'Collaboration & Version Control: Code lifecycle management using GitLab, applying collaborative workflows (Git Flow) and code reviews.',
+    'experience.turrisystem.desc5': 'Technical Analysis: Translation of business rules and functional requirements into robust software solutions, ensuring alignment with technical documentation.',
+
     'experience.grupomagin.role': 'Software Developer',
     'experience.grupomagin.period': 'Oct 2023 - Aug 2024',
     'experience.grupomagin.desc1': 'Develop and improve information systems created by the company.',
